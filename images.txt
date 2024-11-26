@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-tarscloud/framework:v3.0.20
+tarscloud/framework:v3.0.15
